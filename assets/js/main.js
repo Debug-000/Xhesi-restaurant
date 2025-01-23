@@ -170,10 +170,10 @@ form.addEventListener("submit", function (event) {
         return;
       }
 
-      const serviceID = "service_zch55xd";
-      const templateID = "template_7a5y6bj";
+      const serviceID = "service_yqsf64f";
+      const templateID = "template_y4al7tr";
 
-      emailjs.init("1lRJhlH9c2wKBJJJk");
+      emailjs.init("GEbi97SB59T9rOcLq");
 
       emailjs
         .send(serviceID, templateID, {
